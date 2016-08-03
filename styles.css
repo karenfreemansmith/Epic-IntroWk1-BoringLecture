@@ -1,3 +1,25 @@
 h2.intro {
+  color: blue;
+}
 
+p.intro {
+  color: blue;
+  font-weight: bold;
+}
+
+img.intro {
+  border: solid blue 2px;
+}
+h1,h2 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+p {
+  font-family: sans-serif;
+  width: 80%;
+  margin: 10px auto;
+  font-size: 1em;
 }
