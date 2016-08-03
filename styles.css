@@ -1,13 +1,13 @@
-h2.intro {
+.intro h2{
   color: blue;
 }
 
-p.intro {
+.intro p {
   color: blue;
   font-weight: bold;
 }
 
-img.intro {
+.intro img {
   border: solid blue 2px;
 }
 h1,h2 {
@@ -22,4 +22,7 @@ p {
   width: 80%;
   margin: 10px auto;
   font-size: 1em;
+}
+.intro {
+  color: red;
 }
