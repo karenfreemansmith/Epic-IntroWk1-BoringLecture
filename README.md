@@ -1,4 +1,4 @@
-# Diamond Peak
+# Boring Lecture
 Version 0.0.1: August 3, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
 
